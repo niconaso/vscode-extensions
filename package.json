@@ -7,6 +7,10 @@
     "engines": {
         "vscode": "^1.33.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niconaso/vscode-fluxit-frontend.git"
+      },
     "icon": "images/fluxit.png",
     "galleryBanner": {
         "color": "#00d1b2",
