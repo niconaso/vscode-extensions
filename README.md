@@ -1,6 +1,6 @@
 # Flux IT Frontend - Extension Pack for VS Code
 
-[![Badge for version for Visual Studio Code extension fluxit-frontend](https://vsmarketplacebadge.apphb.com/version/fluxit-frontend.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend&wt.mc_id=vscodepeacock-github-jopapa) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fluxit-frontend.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend)
+[![Badge for version for Visual Studio Code extension fluxit-frontend](https://vsmarketplacebadge.apphb.com/version/fluxit-frontend.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fluxit-frontend.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/fluxit-frontend.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
 
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Flux IT frontend development.
