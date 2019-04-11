@@ -1,0 +1,52 @@
+{
+    "name": "fluxit-frontend",
+    "displayName": "Flux IT Frontend",
+    "description": "Essential extensions for Flux IT frontend developers",
+    "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "icon": "images/fluxit.png",
+    "galleryBanner": {
+        "color": "#00d1b2",
+        "theme": "light"
+      },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Angular",
+        "Angular 2",
+        "Angular 7",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Flux",
+        "Flux IT",
+        "Frontend"
+    ],
+    "publisher": "niconaso",
+    "extensionPack": [ 
+        "johnpapa.angular-essentials",
+        "mhutchie.git-graph",
+        "nrwl.angular-console",
+        "formulahendry.auto-rename-tag",
+        "paulhoughton.vscode-jscpd",
+        "joelday.docthis",
+        "dbaeumer.vscode-eslint",
+        "waderyan.gitblame",
+        "kisstkondoros.vscode-gutter-preview",
+        "fivethree.vscode-ionic-snippets",
+        "guillaumedoutriaux.name-that-color",
+        "quicktype.quicktype",
+        "christian-kohler.path-intellisense",
+        "robinbentley.sass-indented",
+        "sasa.vscode-sass-format",
+        "richie5um2.vscode-sort-json",
+        "henoc.svgeditor",
+        "lihui.vs-color-picker",
+        "dotjoshjohnson.xml",
+        "hookyqr.beautify"
+    ]
+}
