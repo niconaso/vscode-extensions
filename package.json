@@ -2,7 +2,7 @@
     "name": "fluxit-frontend",
     "displayName": "Flux IT Frontend",
     "description": "Essential extensions for Flux IT frontend developers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.33.0"
