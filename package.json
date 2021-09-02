@@ -2,16 +2,16 @@
     "name": "vscode-extensions",
     "displayName": "VSCode Frontend Extensions",
     "description": "Essential extensions for frontend developers",
-    "version": "0.0.3",
+    "version": "0.0.2",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
-        "vscode": "^1.33.0"
+        "vscode": "^1.8.0"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/niconaso/vscode-extensions.git"
     },
-    "icon": "images/fluxit.png",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#00d1b2",
         "theme": "dark"
