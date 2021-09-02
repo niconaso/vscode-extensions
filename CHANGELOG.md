@@ -1,6 +1,13 @@
-# Flux IT Frontend Changelog
+# VScode Extensions Changelog
 
-All notable changes to the "flux-it-frontend" extension pack will be documented in this file.
+All notable changes to the "vscode-extensions" extension pack will be documented in this file.
+
+<a name="0.0.3"></a>
+
+# 0.0.3 (2021-09-02)
+
+- Remove some extensions
+- Rename extension pack
 
 <a name="0.0.2"></a>
 

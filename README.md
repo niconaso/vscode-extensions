@@ -1,4 +1,4 @@
-# Flux IT Frontend - Extension Pack for VS Code
+# Extension Pack for VS Code
 
 [![Badge for version for Visual Studio Code extension fluxit-frontend](https://vsmarketplacebadge.apphb.com/version/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![Installs](https://vsmarketplacebadge.apphb.com/installs/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
@@ -30,8 +30,6 @@ Here is the list of extensions the pack includes:
 [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover
 
 [Ionic 4 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets) - Ionic 4 snippets for VS Code
-
-[Name That Color](https://marketplace.visualstudio.com/items?itemName=guillaumedoutriaux.name-that-color) - Get a friendly name from a Hex color representation.
 
 [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 

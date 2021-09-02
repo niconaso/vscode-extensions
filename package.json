@@ -1,21 +1,21 @@
 {
-    "name": "fluxit-frontend",
-    "displayName": "Flux IT Frontend",
-    "description": "Essential extensions for Flux IT frontend developers",
-    "version": "0.0.2",
+    "name": "vscode-extensions",
+    "displayName": "VSCode Frontend Extensions",
+    "description": "Essential extensions for frontend developers",
+    "version": "0.0.3",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.33.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/niconaso/vscode-fluxit-frontend.git"
-      },
+        "url": "https://github.com/niconaso/vscode-extensions.git"
+    },
     "icon": "images/fluxit.png",
     "galleryBanner": {
         "color": "#00d1b2",
         "theme": "dark"
-      },
+    },
     "categories": [
         "Extension Packs"
     ],
@@ -26,31 +26,34 @@
         "TypeScript",
         "HTML",
         "CSS",
-        "Flux",
-        "Flux IT",
+        "Web",
+        "Extensions",
         "Frontend"
     ],
     "publisher": "niconaso",
-    "extensionPack": [ 
-        "johnpapa.angular-essentials",
-        "mhutchie.git-graph",
-        "nrwl.angular-console",
-        "formulahendry.auto-rename-tag",
-        "paulhoughton.vscode-jscpd",
-        "joelday.docthis",
-        "dbaeumer.vscode-eslint",
-        "waderyan.gitblame",
-        "kisstkondoros.vscode-gutter-preview",
-        "fivethree.vscode-ionic-snippets",
-        "guillaumedoutriaux.name-that-color",
-        "quicktype.quicktype",
+    "extensionPack": [
+        "Angular.ng-template",
         "christian-kohler.path-intellisense",
-        "robinbentley.sass-indented",
-        "sasa.vscode-sass-format",
-        "richie5um2.vscode-sort-json",
+        "dbaeumer.vscode-eslint",
+        "DotJoshJohnson.xml",
+        "ecmel.vscode-html-css",
+        "EditorConfig.EditorConfig",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "fivethree.vscode-ionic-snippets",
+        "formulahendry.auto-rename-tag",
         "henoc.svgeditor",
+        "HookyQR.beautify",
+        "johnpapa.angular-essentials",
+        "johnpapa.Angular2",
+        "kisstkondoros.vscode-gutter-preview",
         "lihui.vs-color-picker",
-        "dotjoshjohnson.xml",
-        "hookyqr.beautify"
+        "mhutchie.git-graph",
+        "paulhoughton.vscode-jscpd",
+        "PKief.material-icon-theme",
+        "quicktype.quicktype",
+        "richie5um2.vscode-sort-json",
+        "sasa.vscode-sass-format",
+        "waderyan.gitblame"
     ]
 }
