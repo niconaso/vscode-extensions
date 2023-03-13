@@ -2,7 +2,7 @@
     "name": "vscode-extensions",
     "displayName": "VSCode Frontend Extensions",
     "description": "Essential extensions for frontend developers",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.8.0"
@@ -21,8 +21,8 @@
     ],
     "keywords": [
         "Angular",
-        "Angular 2",
-        "Angular 7",
+        "Ionic Framework",
+        "CapacitorJs",
         "TypeScript",
         "HTML",
         "CSS",
@@ -43,7 +43,6 @@
         "eamodio.gitlens",
         "ecmel.vscode-html-css",
         "EditorConfig.EditorConfig",
-        "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
         "fivethree.vscode-ionic-snippets",
         "formulahendry.auto-rename-tag",
@@ -65,7 +64,6 @@
         "paulhoughton.vscode-jscpd",
         "PKief.material-icon-theme",
         "quicktype.quicktype",
-        "rbbit.typescript-hero",
         "richie5um2.vscode-sort-json",
         "sasa.vscode-sass-format",
         "SumitSaha.learn-with-sumit-theme",
