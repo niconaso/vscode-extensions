@@ -2,7 +2,7 @@
     "name": "vscode-extensions",
     "displayName": "VSCode Frontend Extensions",
     "description": "Essential extensions for frontend developers",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "SEE LICENSE IN LICENSE.md",
     "engines": {
         "vscode": "^1.8.0"
@@ -32,6 +32,8 @@
     ],
     "publisher": "niconaso",
     "extensionPack": [
+        "42Crunch.vscode-openapi",
+        "AlexShen.classdiagram-ts",
         "Angular.ng-template",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
@@ -68,6 +70,22 @@
         "sasa.vscode-sass-format",
         "SumitSaha.learn-with-sumit-theme",
         "vivaxy.vscode-conventional-commits",
-        "waderyan.gitblame"
+        "waderyan.gitblame",
+        "aslamanver.vsc-export",
+        "atlassian.atlascode",
+        "donjayamanne.githistory",
+        "cyrilletuzi.angular-schematics",
+        "ericliu.coldcode",
+        "fabianlauer.vs-code-xml-format",
+        "Ionic.ionic",
+        "kisstkondoros.vscode-codemetrics",
+        "MS-CEINTL.vscode-language-pack-es",
+        "redhat.vscode-yaml",
+        "ryu1kn.partial-diff",
+        "syler.sass-indented",
+        "vscjava.vscode-gradle",
+        "wix.vscode-import-cost",
+        "yzhang.markdown-all-in-one",
+        "zardoy.fix-all-json"
     ]
 }

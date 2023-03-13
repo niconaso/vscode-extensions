@@ -2,6 +2,12 @@
 
 All notable changes to the "vscode-extensions" extension pack will be documented in this file.
 
+<a name="0.0.4"></a>
+
+# 0.0.4 (2023-03-13)
+
+- Add some extensions
+
 <a name="0.0.3"></a>
 
 # 0.0.3 (2021-09-02)
