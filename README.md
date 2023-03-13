@@ -1,9 +1,6 @@
 # Extension Pack for VS Code
 
-[![Badge for version for Visual Studio Code extension fluxit-frontend](https://vsmarketplacebadge.apphb.com/version/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![Installs](https://vsmarketplacebadge.apphb.com/installs/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/niconaso.fluxit-frontend.svg)](https://marketplace.visualstudio.com/items?itemName=fluxit-frontend) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](http://opensource.org/licenses/MIT)
-
-This extension pack for Visual Studio Code adds extensions that are amazingly useful for Flux IT frontend development.
+This extension pack for Visual Studio Code adds extensions that are amazingly useful for Eiwa AG frontend development.
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
